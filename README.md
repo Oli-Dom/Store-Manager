@@ -24,10 +24,4 @@ This is a simple web application that allows users to:
 * **Frontend:**
     * **Svelte:** A fast and lightweight front-end framework.
 
-**Project Structure:**
-
-* **backend:** 
-    * Contains the Spring Boot application with controllers, services, and repositories.
-* **frontend:** 
-    * Contains the Svelte application with components and logic.
 
